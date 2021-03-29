@@ -1,7 +1,7 @@
 ## ⚙️ Josh haines
 
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhaines&show_icons=true&theme=synthwave)](http://JoshHaines.com)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhaines&theme=synthwave)](http://JoshHaines.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhaines&theme=synthwave&layout=compact)](http://JoshHaines.com)
 <!--
 **jdhaines/jdhaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
