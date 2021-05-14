@@ -15,12 +15,12 @@ Josh grew up across the river from Purdue University and enjoys being back in In
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhaines&show_icons=true&theme=synthwave)](http://JoshHaines.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhaines&theme=synthwave)](http://JoshHaines.com)
-<!--
+
 **jdhaines/jdhaines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--START_SECTION:waka-->
-[![Josh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdhaines&layout=compact)](http://JoshHaines.com)
+[![Josh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdhaines&layout=compact&theme=synthwave)](http://JoshHaines.com)
 <!--END_SECTION:waka-->
-Here are some ideas to get you started:
+<!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
