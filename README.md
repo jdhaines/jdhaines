@@ -8,6 +8,10 @@ As a two-time small business owner and recovering serial hobbyist, he loves to l
 
 Josh grew up across the river from Purdue University and enjoys being back in Indiana close to family. He currently lives in Lafayette with his wife Chris and daughters Nora and Jenny. Josh holds a BS and MS from Purdue University in Materials Engineering.
 
+## Certifications
+
+[Cloud Development using Microsoft Azure - Udacity](https://confirm.udacity.com/Z2XKMDDC)
+
 ## 📊 Stats
 
 >Note: Most development is behind a corporate firewall, so github is a bit light...
