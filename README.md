@@ -18,6 +18,6 @@ Josh grew up across the river from Purdue University and enjoys being back in In
 >
 [![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jdhaines&show_icons=true&theme=synthwave)](http://JoshHaines.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhaines&theme=synthwave)](http://JoshHaines.com)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jdhaines&theme=synthwave)](http://JoshHaines.com) -->
 
 [![Josh's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jdhaines&layout=compact&theme=synthwave)](http://JoshHaines.com)
