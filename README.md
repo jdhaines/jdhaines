@@ -1,4 +1,4 @@
-# ⚙️ Josh haines
+# ⚙️ Josh Haines
 
 ## ❓ About Me
 
