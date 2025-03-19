@@ -2,11 +2,11 @@
 
 ## ❓ About Me
 
-Josh Haines is an Enterprise DevSecOps Specialist and Senior Materials Engineer with over a decade of experience solving problems in complex industries. He is a Lilly Scholar who worked for Honeywell Aerospace and Johns Manville before being pulled back to central Indiana to help Rolls-Royce ten years after an internship. In 2020, he transitioned to a full-time role in the Digital Transformation group as a DevSecOps Strategy and Curation Specialist leading an effort to grow and mature an internal start-up called _Software Factory_. This completes a gradual pivot from building digital tools in various roles, to starting and running a Software Factory at Rolls-Royce, to a career in “digital and data.”  Josh has now grown the Rolls-Royce Software Factory from an idea and himself part-time to a full-time team alongside more than 50 citizen developers.
+Josh Haines is a **VP of Digital Products** with 17+ years of experience solving problems in complex industries. He is a Lilly Scholar who worked for Honeywell Aerospace and Johns Manville as both a _Software Specialist_ and _Sr. Materials Engineer_ before rejoining Rolls-Royce ten years after an internship. In 2020, he transitioned to a full-time role in the Digital Transformation team and started a Software Factory to enable Rolls-Royce to develop modern software applications and services. In late 2024, he was promoted to his current role to lead multiple digital product delivery teams within the larger Digital and IT umbrella in Rolls-Royce.
 
-As a two-time small business owner and recovering serial hobbyist, he loves to learn new skills using freely available information, online classes, and self-paced learning. He incorporates his self-taught abilities as a developer, data scientist, and DevOps enthusiast into projects both professional and charitable.
+As a three-time small business owner and recovering serial hobbyist, he loves to learn new skills and is passionate about lifelong learning. He incorporates his self-taught abilities as a developer, skills coach, and DevSecOps enthusiast into projects both professional and charitable.
 
-Josh grew up across the river from Purdue University and enjoys being back in Indiana close to family. He currently lives in Lafayette with his wife Chris and daughters Nora and Jenny. Josh holds a BS and MS from Purdue University in Materials Engineering.
+Josh lives with his wife Chris and daughters Jenny and Nora. He holds a BS and MS from Purdue University in Materials Engineering.
 
 ## Certifications
 
