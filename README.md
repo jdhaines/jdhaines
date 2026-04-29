@@ -2,11 +2,11 @@
 
 ## ❓ About Me
 
-Josh Haines is a **VP of Digital Products** with 17+ years of experience solving problems in complex industries. He is a Lilly Scholar who worked for Honeywell Aerospace and Johns Manville as both a _Software Specialist_ and _Sr. Materials Engineer_ before rejoining Rolls-Royce ten years after an internship. In 2020, he transitioned to a full-time role in the Digital Transformation team and started a Software Factory to enable Rolls-Royce to develop modern software applications and services. In late 2024, he was promoted to his current role to lead multiple digital product delivery teams within the larger Digital and IT umbrella in Rolls-Royce.
+I am a software engineering and platform transformation executive with 17+ years of experience leading modernization efforts inside complex and regulated industrial enterprises. My work centers on building scalable operating models for secure software delivery aligning engineering, governance, and business outcomes in environments where compliance, risk management, and global coordination are critical.
 
-As a three-time small business owner and recovering serial hobbyist, he loves to learn new skills and is passionate about lifelong learning. He incorporates his self-taught abilities as a developer, skills coach, and DevSecOps enthusiast into projects both professional and charitable.
+At Rolls-Royce, I founded and scaled a Software Factory that institutionalized a secure-by-design DevSecOps model across multiple divisions and geographies. What began as a startup-style initiative in a Defense accelerator evolved into an enterprise platform capability supporting 300+ developers and applications serving 20,000+ users across regulated cloud and high-assurance environments. I currently serve as **Vice President of Digital Products** and **Head of Group Software Factory**, responsible for engineering strategy, cross-division adoption, and delivery governance across global teams.
 
-Josh lives with his wife Chris and daughters Jenny and Nora. He holds a BS and MS from Purdue University in Materials Engineering.
+My background in engineering and manufacturing provides a systems-level perspective on digital transformation bridging operational realities with modern cloud-native delivery practices.
 
 ## Certifications
 
